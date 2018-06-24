@@ -30,3 +30,6 @@ There are many people who have helped us along our journey. Here are a few highl
 
 - [City of Zion](http://cityofzion.io/) - CoZ community has been incredibly helpful to us in our learning and interaction with the NEO ecosystem
 - @fabwa - one of the co-founders of CoZ and also NEX (Neo Exchange), he was really supportive and instrumental in deciding to explore NEO further as potential developers
+
+![F27](https://github.com/F27Ventures/cohorts/blob/master/F27-888x100-2b_02.jpg)
+
